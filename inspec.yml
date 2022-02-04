@@ -1,0 +1,7 @@
+name: sql_overlay2_name
+title: sql_overlay2_title
+summary: "MS SQL 2017 Overlay 2"
+
+depends:
+  - name: sql_overlay_name
+    path: ../sql_overlay_repo
